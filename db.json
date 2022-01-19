@@ -1,103 +1,103 @@
 {
-    "results" : [
-      {
-        "__metadata" : {
-          "id" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')",
-          "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')",
-          "type" : "ISU_BI_OPN_OVP_SRV.C_OpenUtilsBillgDocAndOrdType"
-        },
-        "ID" : ".1~0030199277.2~0070207635.3~20210128.4~01",
-        "UtilitiesContract" : "30199277",
-        "UtilitiesInstallation" : "70207635",
-        "ScheduledUtilitiesBillingDate" : "\/Date(1611792000000)\/",
-        "UtilitiesBillingReason" : "01",
-        "UtilitiesBillingReasonName" : "Periodic Billing (01)",
-        "UtilitiesPortion" : "60",
-        "ScheduledMeterReadingDate" : "\/Date(1611792000000)\/",
-        "BusinessPartner" : "1000177689",
-        "ContractAccount" : "2102916984",
-        "UtilsBillgBlockReason" : "",
-        "UtilsBillgUnblockReason" : "",
-        "CompanyCode" : "1500",
-        "Division" : "EL",
-        "MeterReadingUnit" : "60-303",
-        "UtilitiesRateCategory" : "GECOMPUSET",
-        "UtilitiesBillingClass" : "GECI",
-        "UtilsPortionScheduleRecordDate" : "\/Date(1611792000000)\/",
-        "UtilitiesAccountDetnCode" : "CO",
-        "OpnUtilsBillgDocAndOrdType" : "01",
-        "OpnUtilsBillgDocAndOrdTypeName" : "Incomplete Meter Reading",
-        "NrOfOpenUtilsBillgDocsAndOrds" : 1,
-        "to_BusinessPartner" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_BusinessPartner"
-          }
-        },
-        "to_CompanyCode" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_CompanyCode"
-          }
-        },
-        "to_ContrAcc" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_ContrAcc"
-          }
-        },
-        "to_Division" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_Division"
-          }
-        },
-        "to_MeterReadingUnit" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_MeterReadingUnit"
-          }
-        },
-        "to_OpnUtilsBillgDocAndOrdType" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_OpnUtilsBillgDocAndOrdType"
-          }
-        },
-        "to_UtilitiesBillingReason" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesBillingReason"
-          }
-        },
-        "to_UtilitiesInstallation" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesInstallation"
-          }
-        },
-        "to_UtilitiesPortion" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesPortion"
-          }
-        },
-        "to_UtilitiesRateCategory" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesRateCategory"
-          }
-        },
-        "to_UtilsAccountDetnCode" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsAccountDetnCode"
-          }
-        },
-        "to_UtilsBillgBlockReason" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillgBlockReason"
-          }
-        },
-        "to_UtilsBillgUnblockReason" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillgUnblockReason"
-          }
-        },
-        "to_UtilsBillingClass" : {
-          "__deferred" : {
-            "uri" : "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillingClass"
-          }
+    "results": [
+        {
+            "__metadata": {
+                "id": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')",
+                "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')",
+                "type": "ISU_BI_OPN_OVP_SRV.C_OpenUtilsBillgDocAndOrdType"
+            },
+            "ID": ".1~0030199277.2~0070207635.3~20210128.4~01",
+            "UtilitiesContract": "30199277",
+            "UtilitiesInstallation": "70207635",
+            "ScheduledUtilitiesBillingDate": "\/Date(1611792000000)\/",
+            "UtilitiesBillingReason": "01",
+            "UtilitiesBillingReasonName": "Periodic Billing (01)",
+            "UtilitiesPortion": "60",
+            "ScheduledMeterReadingDate": "\/Date(1611792000000)\/",
+            "BusinessPartner": "1000177689",
+            "ContractAccount": "2102916984",
+            "UtilsBillgBlockReason": "",
+            "UtilsBillgUnblockReason": "",
+            "CompanyCode": "1500",
+            "Division": "EL",
+            "MeterReadingUnit": "60-303",
+            "UtilitiesRateCategory": "GECOMPUSET",
+            "UtilitiesBillingClass": "GECI",
+            "UtilsPortionScheduleRecordDate": "\/Date(1611792000000)\/",
+            "UtilitiesAccountDetnCode": "CO",
+            "OpnUtilsBillgDocAndOrdType": "01",
+            "OpnUtilsBillgDocAndOrdTypeName": "Incomplete Meter Reading",
+            "NrOfOpenUtilsBillgDocsAndOrds": 1,
+            "to_BusinessPartner": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_BusinessPartner"
+                }
+            },
+            "to_CompanyCode": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_CompanyCode"
+                }
+            },
+            "to_ContrAcc": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_ContrAcc"
+                }
+            },
+            "to_Division": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_Division"
+                }
+            },
+            "to_MeterReadingUnit": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_MeterReadingUnit"
+                }
+            },
+            "to_OpnUtilsBillgDocAndOrdType": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_OpnUtilsBillgDocAndOrdType"
+                }
+            },
+            "to_UtilitiesBillingReason": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesBillingReason"
+                }
+            },
+            "to_UtilitiesInstallation": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesInstallation"
+                }
+            },
+            "to_UtilitiesPortion": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesPortion"
+                }
+            },
+            "to_UtilitiesRateCategory": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilitiesRateCategory"
+                }
+            },
+            "to_UtilsAccountDetnCode": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsAccountDetnCode"
+                }
+            },
+            "to_UtilsBillgBlockReason": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillgBlockReason"
+                }
+            },
+            "to_UtilsBillgUnblockReason": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillgUnblockReason"
+                }
+            },
+            "to_UtilsBillingClass": {
+                "__deferred": {
+                    "uri": "http://eq2c1va.fpl.com:8000/sap/opu/odata/sap/ISU_BI_OPN_OVP_SRV/C_OpenUtilsBillgDocAndOrd('.1~0030199277.2~0070207635.3~20210128.4~01')/to_UtilsBillingClass"
+                }
+            }
         }
-      }
     ]
 }
